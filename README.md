@@ -1,2 +1,1 @@
-ALX git assignment
-git project
+my first readme
